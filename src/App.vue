@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <p> Je voulais utiliser la fonction random() 
+      en scss pour afficher les cercle aléatoirement, 
+      cependant j'ai eu un probleem en essayant d'installer 
+      SCSS ce qui a générer plein de bug et m'a fait perdre tout mon temps...</p>
+    <HelloWorld msg="test Delia solution"/>
   </div>
 </template>
 
